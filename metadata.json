@@ -1,0 +1,6 @@
+{
+  "name": "Prospection PDCA",
+  "description": "Suite de 14 modules interactifs de prospection commerciale et amélioration continue selon le cycle PDCA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
